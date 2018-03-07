@@ -1,0 +1,86 @@
+Mainnet Address: https://etherscan.io/address/0x814f67fa286f7572b041d041b1d99b432c9155ee#code
+
+Rinkeby Address: https://rinkeby.etherscan.io/address/0xbc7d18f7b1f4db82a9c5521633ce257ce4e97b58#code
+
+
+1st Transaction
+	Type Approve
+	https://rinkeby.etherscan.io/tx/0x6a7f77bebe563fb4f63f6573aa5bfaeff15f106c3cf85f701db949411bc5e9fe
+
+
+2nd Transaction
+	Type Contribution
+	Time 6:53
+	Amount 0.1 ETH
+	Contributor 0xE07e2448e939B5712B53C07de0dA94863bbe7576
+	Balance 2000000000
+	https://rinkeby.etherscan.io/tx/0x42b8cccad1dea7afe41114fc5273b22288f329303456192f119f466f5996f2ad
+
+
+3rd Transaction
+	Type Contribution
+	Time 6:55
+	Amount 0.1 ETH
+	Contributor 0xE07e2448e939B5712B53C07de0dA94863bbe7576
+	Balance 4000000000
+	https://rinkeby.etherscan.io/tx/0x78e9f6a80f3b5673ee12610e5ed1072434ede946e5b5173d946eb817db288514
+
+
+4th Transaction
+	Type Wirhdrawal Attemp (No gas adjusted)
+	Time 6:56
+	Status Failed
+	https://rinkeby.etherscan.io/tx/0xfda9511aed1506d9fc3fe39c58c57fb51c11d501de0296efe655ac926ce5a041
+
+5th Transaction
+	Type Wirhdrawal Attemp (With Higher gas limit: 2000000)
+	Time 6:56
+	Status Failed
+	https://rinkeby.etherscan.io/tx/0x2a7c8b75cbe601b51d10327dbe3ac123b4b782553e58c1aef912d321a014318a
+
+6th Transaction
+	Type Contribution
+	Time 6:58
+	Amount 0.1 ETH
+	Contributor 0xE07e2448e939B5712B53C07de0dA94863bbe7576
+	Balance 6000000000
+	https://rinkeby.etherscan.io/tx/0xda615b21e01e505770eb8b3edcfe586a91e2878e4d2bd4ccffc3cc3284aa992c
+
+
+7th Transaction
+	Type Wirhdrawal Attemp (With Higher gas limit: 2000000)
+	Time 7:00
+	Status Sucess
+	https://rinkeby.etherscan.io/tx/0x09c3e8b4cd1dd42f89da88af9acc7f68508d22caa23998eb6de41a8468eafcbe
+
+8th Transaction
+	Type Wirhdrawal Attemp (With Higher gas limit: 2000000)
+	Time 7:02
+	Status Success
+	https://rinkeby.etherscan.io/tx/0x1bb63844a26aaacfec1bc6f6afd9d02a412bd010d94da27a9c245a7e7440a6b8
+
+9th Transaction
+	Type Wirhdrawal Attemp (With Higher gas limit: 2000000)
+	Time 7:02
+	Status Failed (Unlock time is 7:04)
+	https://rinkeby.etherscan.io/tx/0xc0accdd4db7cb40d7445ee92d76df4e9cd2ee912da9bab1e2a6b7ff003ded686
+
+10th Transaction
+	Type Wirhdrawal Attemp (With Higher gas limit: 2000000)
+	Time 7:05
+	Status Passed
+	https://rinkeby.etherscan.io/tx/0x1d83bb225536fb61c244290f388abdce4838f314d9087c3bc84a24dfd4f4170a
+
+
+All locked tokens have been withdrawed successfully. 
+	
+
+11th Transaction
+	Type Contribution
+	Time 7:12
+	Amount 0.1111 ETH
+	Contributor 0xE07e2448e939B5712B53C07de0dA94863bbe7576
+	Balance 2222000000 (22.22 DRG)
+	https://rinkeby.etherscan.io/tx/0x4aec1fe57cbc45dd1ef52a43069afec32687d81cbbc830c97fd8b3c4bf5c6a82
+
+So we have successfullly tested that tokens less than 1 are distributed successfully.
