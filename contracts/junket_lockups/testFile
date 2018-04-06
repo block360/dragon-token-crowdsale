@@ -1,0 +1,23 @@
+Junket Addresses:
+0x8CBE4C9a921A19d8F074d9722815cD42a450f849   100,000,000   
+0x82813D8C0cBfaA0E43d57184a78360085e5a95Fd    30,000,000 
+0xde41bB8f5c2C158440f7B5B9D18bE9b7C832DC4a    30,000,000 
+0xC8F202D79F9dE81Ae1c5a69545B352B820c4EbfB    30,000,000 
+0x4BDE3B2F0F43B17407F2f91E1f18F9e130Cd804A    30,000,000 
+0xdFEfd080AE6887AC4221c7479b59677b017c9996    30,000,000 
+
+
+Test Deployed but they cannot pass:
+Ropsten:
+https://ropsten.etherscan.io/address/0x769804fefcac6f198a7bb872f7699f0fdea8cf85
+https://ropsten.etherscan.io/address/0x71fb49d98f4504675f4d67b2e3a1827782416581#readContract
+Rinkeby:
+https://rinkeby.etherscan.io/address/0x61e2facae8041f90ec8bc52a61307b3ddacdc917#readContract
+https://rinkeby.etherscan.io/tx/0x0ee19bbc6e46800c77606120602084f1276b9647ef5cc6f1c9f43b92ae0659b8
+
+
+Passed Test: 
+Contract Address: https://rinkeby.etherscan.io/address/0xe17cb4f8fec5a08283ade638f22649baa8fd7ca0
+https://rinkeby.etherscan.io/tx/0x2474e41b38aafec0fa782526e3ec0c664d84bce345b76af71b9f3bec9b44fe72
+https://rinkeby.etherscan.io/tx/0x82a1592371dd4dfe833183764067c8c039c3b030b570cd921682eb89894e93b6
+Successfuly Withdrawed all tokens
